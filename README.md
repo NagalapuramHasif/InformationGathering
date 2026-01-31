@@ -39,7 +39,7 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 
 ## Finding Hosting Company
 get further detail by using ip2location.com website.
-##output
+## output
 <img width="1920" height="1080" alt="Screenshot 2026-01-30 205700" src="https://github.com/user-attachments/assets/572ce18a-9003-489b-af49-b901be44f05f" />
 
 
@@ -71,10 +71,14 @@ TCP Traceroute:
 
 
 ## UDP Traceroute:
-sudo traceroute -U www.google.com
+sudo traceroute -U
 ## output
 
 <img width="622" height="348" alt="udp trace out" src="https://github.com/user-attachments/assets/e013a7c6-7006-4239-b3f3-11517d2f605f" />
+## ICMP Traceroute:
+sudo traceroute
+<img width="702" height="328" alt="icmp" src="https://github.com/user-attachments/assets/4362be8d-7211-410b-945e-12ad30fc6b39" />
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
