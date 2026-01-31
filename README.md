@@ -75,8 +75,12 @@ sudo traceroute -U
 ## output
 
 <img width="622" height="348" alt="udp trace out" src="https://github.com/user-attachments/assets/e013a7c6-7006-4239-b3f3-11517d2f605f" />
+
+
 ## ICMP Traceroute:
 sudo traceroute
+## output
+
 <img width="702" height="328" alt="icmp" src="https://github.com/user-attachments/assets/4362be8d-7211-410b-945e-12ad30fc6b39" />
 
 
